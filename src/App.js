@@ -57,13 +57,6 @@ const App = () => {
                         }         
 
                         {
-                            /* Add ExpenseItem component here */
-                            <div className='row-sm'>
-                                <ExpenseItem />
-                            </div>
-                        }        
-
-                        {
                             /* Add AllocationForm component here under */
                             <div className='row-sm'>
                                 <AllocationForm />
